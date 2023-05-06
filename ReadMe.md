@@ -5,3 +5,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4ian0&layout=compact&hide_border=true&title_color=F73168&text_color=F73168&bg_color=0d1117"  />
   </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=b4ian0&bg_color=0d1117&color=f73168&line=5f0c1c&point=f73168&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
