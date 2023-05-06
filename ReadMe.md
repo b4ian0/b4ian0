@@ -10,6 +10,6 @@
 <div align="center">
 <a href="https://instagram.com/s4m.xvz?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href= "mailto:samuel.cerqueira2@etec.sp.gov.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logocolor=white" target="_ blank"></a>
-<a href= "https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href= "https://www.linkedin.com/in/samuel-santos-a26534275" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 
 </div>
