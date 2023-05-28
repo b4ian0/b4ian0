@@ -2,10 +2,10 @@
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=b4ian0&show_icons=true&count_private=true%hide_border=true&title_color=F73168&icon_color=F73168&text_color=c9d1d9&bg_color=0d1117"  alt="Samuel Santos github stats"  />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4ian0&layout=compact&hide_border=true&title_color=F73168&text_color=F73168&bg_color=0d1117"  />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4ian0&layout=compact&langs_count=16&hide_border=true&title_color=F73168&text_color=F73168&bg_color=0d1117"  />
   </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=b4ian0&bg_color=0d1117&color=f73168&line=5f0c1c&point=f73168&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=b4ian0&bg_color=0d1117&color=f73168&line=5f0c1c&point=f73168&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 <a href="https://instagram.com/s4m.xvz?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
