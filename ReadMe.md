@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b4ian0&show_icons=true&&theme=dracula&include_all_commits=true&count_private=true%hide_border=true&https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b4ian0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%hide_border=true&https://github.com/anuraghazra/github-readme-stats)
 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4ian0&layout=compact&langs_count=16&hide_border=true&title_color=F73168&text_color=F73168&bg_color=0d1117"  />
   </div>
